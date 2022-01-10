@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+#project_tagline {display: none;}
+#header_wrap {background: #005EB8;}
+a:link {text-decoration: underline;}
+a:focus {box-shadow: 0 0 0 3px #005EB8;box-shadown-offset: 5px;outline: 2px solid;outline-color: #ffffff;outline-offset: 5px;text-decoration: underline;}
+a:hover {font-weight: bold;text-decoration: underline;}
