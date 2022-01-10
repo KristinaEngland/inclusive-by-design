@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+The interactions we have as a society depend heavily on what we can see, hear, say, touch, and remember. It's important to keep in mind the wide range of ways people interact with the world so that we can design a workplace that is inclusive for all of us. The goal of this toolkit is to provide employees with an overall understanding of the disability community as well as how to be inclusive in day-to-day work activities, organizational planning and processes, and more.
 
-You can use the [editor on GitHub](https://github.com/KristinaEngland/inclusive-by-design/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## [Understand the Who Before the How](https://kristinaengland.github.io/inclusive-by-design/who)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before we talk about the various aspects of accessibility, it's important to understand why accessibility matters. Who is the disability community? Let's take a look at the social model of disability, the history of the disability rights movement, current voices in the community, and more.
 
-### Markdown
+## [How to Create an Inclusive Experience](https://kristinaengland.github.io/inclusive-by-design/how)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Digital and physical inclusion is essential to recruiting and retaining disabled employees and students. We must think about inclusion throughout the life cycle of a program, product, or service so that we can ensure that our colleagues and students can access the world in an equally effective and independent way.
 
-```markdown
-Syntax highlighted code block
+## Disability Inclusion is Everyone's Responsibility 
 
-# Header 1
-## Header 2
-### Header 3
+Disability inclusion requires us to look at both systemic and personal biases. We must change organizational processes in order to ensure inclusion. We must also change our own personal habits, both inside and outside the workplace to make inclusion a reality.
 
-- Bulleted
-- List
+## A Note about Language
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KristinaEngland/inclusive-by-design/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The Inclusive by Design website is geared towards the social model of disability, so we use identity-first language in several places on the site. However, we do our best to honor all community and individual preferences by using both identity-first and person-first language interchangeably in various places on the site. This site does not intend to declare that identity-first is the preferred language for everyone. As mentioned on the Disability Etiquette page, preference varies, so either identity-first or person-first language should be used based on the preference of a community or individual.
