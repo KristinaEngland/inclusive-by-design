@@ -1,4 +1,4 @@
-# Amplifying Disabiled Voices
+# Current Voices in the Disability Community
 
 The best way to learn about a marginalized community is to listen to and engage with the diverse voices of that community. There's a saying: "If you know one person with a disability, you know one person with a disability." The disabled community is diverse - thus both their access needs and the forms of discrimination they have witnessed vary by their disability. Here are a some of the current voices in the community who have books, generate media, and/or keep active social media presences.
 
