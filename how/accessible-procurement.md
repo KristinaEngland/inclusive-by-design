@@ -13,8 +13,9 @@ Purchasing the most accessible product or service during the procurement process
 ## Request the following from all vendors
 
 - An accessible version of their latest Accessibility Conformance Report (ACR). The Accessibility Conformance Report (ACR) should be provided using the latest version of the Voluntary Product Accessibility Template (WCAG Version). The report should be accessible, complying with PDF accessibility guidelines. 
-- Completion of the UMass Procurement Questionnaire. Vendors should be as detailed as possible in their responses. 
+- Completion of the Procurement Questionnaire. Vendors should be as detailed as possible in their responses. 
+- Access to a demo environment for testing purposes.
 
 ## Internal validation of digital product and service accessibility
 
-It's the responsibility of business owners and the Unified Procurement Services Team (UPST) to engage the proper campus accessibility specialists or an approved third-party accessibility testing company. This vetting is needed to provide clear language in a contract around remediation timelines and other customer expectations. Business owners and the UPST can conduct basic manual testing with keyboard only navigation and can opt to run an automated testing tool up against the product, but neither will cover the full range of potential issues.
+It's the responsibility of business owners and the Procurement Office to engage the proper accessibility specialists or an approved third-party accessibility testing company in the procurement process. This vetting is needed to provide clear language in a contract around remediation timelines and other customer expectations. 
