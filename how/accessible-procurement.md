@@ -1,7 +1,7 @@
 # Accessible Procurement of Digital Products and Services
 
 "'Accessible' means a person with a disability is afforded the opportunity to acquire the same information, engage in the same interactions, and enjoy the same services as a person without a disability in an equally effective and equally integrated manner, with substantially equivalent ease of use. The person with a disability must be able to obtain the information as fully, equally and independently as a person without a disability."
-- [South Carolina Technical College System Resolution Agreement](https://www.umassp.edu/inclusive-by-design/creating-inclusive-digital-experience/accessible-procurement-digital-products), Office of Civil Rights
+- [South Carolina Technical College System Resolution Agreement](https://www2.ed.gov/about/offices/list/ocr/docs/investigations/11116002-b.html), Office of Civil Rights
 
 ## The benefits of building accessibility reviews into the procurement process
 
