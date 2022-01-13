@@ -18,4 +18,4 @@ Purchasing the most accessible product or service during the procurement process
 
 ## Internal validation of digital product and service accessibility
 
-It's the responsibility of business owners and the Procurement Office to engage the proper accessibility specialists or an approved third-party accessibility testing company in the procurement process. This vetting is needed to provide clear language in a contract around remediation timelines and other customer expectations. 
+It's the responsibility of business owners and the Procurement Office to engage the proper internal accessibility subject matter experts or an approved third-party accessibility testing company in the procurement process. This vetting is needed to provide clear language in a contract around remediation timelines and other customer expectations. 
