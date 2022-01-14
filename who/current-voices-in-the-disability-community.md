@@ -19,3 +19,13 @@ There are various different podcasts facilitiated by members of the disability c
 - [#A11y Rules Podcast](https://a11yrules.com/): Hear it in their own words – people with disabilities talking about the barriers they encounter on the web.
 - [Disability Visibility Project Podcast](https://disabilityvisibilityproject.com/podcast-2/): This is life from a disabled lens. Disability Visibility is a podcast hosted by San Francisco night owl Alice Wong featuring conversations on politics, culture, and media with disabled people. If you’re interested in disability rights, social justice, and intersectionality, this show is for you. Transcripts are included on the website on each episode's page.
 - [POWER NOT PITY Podcast](http://www.powernotpity.com/episodes.html): A podcast that centers and celebrates the lived experiences of disabled people of color. Transcripts are included on the website on each episode's page.
+
+## Twitter
+Here are some of the many handles you can follow on Twitter. You can also explore the #DisabilityTwitter hashtag to discover various voices in the disability community. 
+
+- [Autistic Self Advocacy Network](https://twitter.com/autselfadvocacy): The Autistic Self Advocacy Network is a 501(c)(3) nonprofit organization run by and for autistic people.
+- [Imani Barbarin](https://twitter.com/Imani_Barbarin): A graduate of Eastern University with a degree in Creative Writing and a minor in French from the Sorbonne, Imani Barbarin writes from the perspective of a black woman with Cerebral Palsy
+- [Meryl Evans](https://twitter.com/merylkevans): Deaf Professional Speaker and Accessibility Digital Marketer. 
+- [Haben Girma](https://twitter.com/HabenGirma): The first Deafblind person to graduate from Harvard Law School, Haben Girma is a human rights lawyer advancing disability justice. President Obama named her a White House Champion of Change. She received the Helen Keller Achievement Award, a spot on the Forbes 30 Under 30 list, and TIME100 Talks.
+- [Emily Ladau](https://twitter.com/emily_ladau): A passionate disability rights activist, writer, storyteller, and digital communications consultant whose career began at the age of 10, when she appeared on several episodes of Sesame Street to educate children about her life with a physical disability.
+- [Andrew Pulrang](https://twitter.com/AndrewPulrang): A freelance writer with lifelong disabilities and 22 years experience as a service provider and executive in nonprofit disability services and advocacy. Andrew writes about disability practices, policy, politics and culture. He also co-coordinates #CripTheVote, a Twitter-based discussion of disability issues and electoral politics.
