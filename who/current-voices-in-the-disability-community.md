@@ -16,6 +16,6 @@ The best way to learn about a marginalized community is to listen to and engage 
 ## Podcasts
 There are various different podcasts facilitiated by members of the disability community. However, we only list the ones that include a transcript. Feel free to contact us if there is a podcast you want added that provides a transcript for the deaf, deafblind, and neurodivergent communities. 
 
-- #A11y Rules Podcast: Hear it in their own words – people with disabilities talking about the barriers they encounter on the web.
-- Disability Visibility Project Podcast: This is life from a disabled lens. Disability Visibility is a podcast hosted by San Francisco night owl Alice Wong featuring conversations on politics, culture, and media with disabled people. If you’re interested in disability rights, social justice, and intersectionality, this show is for you. Transcripts are included on the website on each episode's page.
-- POWER NOT PITY Podcast: A podcast that centers and celebrates the lived experiences of disabled people of color. Transcripts are included on the website on each episode's page.
+- [#A11y Rules Podcast](https://a11yrules.com/): Hear it in their own words – people with disabilities talking about the barriers they encounter on the web.
+- [Disability Visibility Project Podcast](https://disabilityvisibilityproject.com/podcast-2/): This is life from a disabled lens. Disability Visibility is a podcast hosted by San Francisco night owl Alice Wong featuring conversations on politics, culture, and media with disabled people. If you’re interested in disability rights, social justice, and intersectionality, this show is for you. Transcripts are included on the website on each episode's page.
+- [POWER NOT PITY Podcast](http://www.powernotpity.com/episodes.html): A podcast that centers and celebrates the lived experiences of disabled people of color. Transcripts are included on the website on each episode's page.
