@@ -30,3 +30,11 @@ Some images are purely decorative, which means they serve no purpose to the cont
 
 Note that social media images should never be decorative. The image serves a purpose whether on Instagram or Facebook, so thus social media images should always be described.
 
+## Social Media Platform Instructions
+
+The process will vary by social media platform. Here are the instructions for each platform:
+
+- [Facebook Alt Text Article](https://www.facebook.com/help/214124458607871). Note that Facebook adds automatically generated alt text to all photos that is highly inaccurate and, when somewhat accurate, does not provide enough detail. 
+- [Instagram Alt Text Article](https://www.umassp.edu/inclusive-by-design/creating-inclusive-digital-experience/help.instagram.com/503708446705527/?helpref=uf_share). As with Facebook, Instagram auto-generates alt text that is often inaccurate. You should review and edit alt text for all images you upload.
+- [LinkedIn Alt Text Article](https://www.linkedin.com/help/linkedin/answer/109799/adding-alternative-text-to-images-for-accessibility?lang=en).
+- [Twitter Image Accessibility Article](https://help.twitter.com/en/using-twitter/picture-descriptions).
