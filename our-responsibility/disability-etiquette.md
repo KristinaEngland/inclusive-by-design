@@ -27,7 +27,7 @@ These terms are disliked by various groups within the disability community. Ther
 - Differently-abled, Handi-capable, Otherly-Abled, and Special Needs: Many members of the disability community consider these terms a way to avoid the word disabled. They are seen as a way of diminishing or even erasing the experiences of disabled people. Lydia X. Z Brown provides additional details on the problem with the term differently-abled in the post, "[How 'Differently Abled' Marginalizes Disabled People](https://www.autistichoya.com/2013/08/differently-abled.html)." Read "[Disability is not a dirty word; 'handi-capable' should be retired](https://news.vanderbilt.edu/2019/04/23/disability-is-not-a-dirty-word-handi-capable-should-be-retired/)" for more on the issues with these euphemisms in general. 
 - Able-Bodied: This term is sometimes used instead of non-disabled. The main issue with it is that it implies that all disabled people lack "able-bodies" or the ability to use their bodies well. We recommend using the term non-disabled when referring to someone who does not have a disability. 
 
-For additional terminology advice in regards to specific disabilities, please visit the Disability Language Style Guide maintained by the National Center on Disability and Journalism.
+For additional terminology advice in regards to specific disabilities, please visit the [Disability Language Style Guide](https://ncdj.org/) maintained by the National Center on Disability and Journalism.
 
 ## Use a community or individual's preferred disability language
 
