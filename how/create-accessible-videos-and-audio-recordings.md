@@ -1,4 +1,4 @@
-# Create Accessible Videos and Audio Clips
+# Create Accessible Videos and Audio Recordings
 
 ## General Best Practices to Follow
 
@@ -10,3 +10,10 @@
 - Make any overlay text readable, ensuring it follows the color contrast guidelines and ensuring it is not placed in the area in which captions will appear if someone has captions enabled.
 - Some people use mouth movement to help understand spoken language. When feasible, ensure that the speaker’s face is visible and in good light.
 - Use human transcribed captions for any live stream accommodation requests or for any pre-recorded videos. If you don't receive a request for captions for a live event, you can use automated captions. Just remember to edit the captions on the recorded video before publishing it.
+
+## Accessible Multimedia Communications Decision Tree
+
+Select the type of media you will be creating for media-specific requirements:
+- Audio Recording
+- Livestream
+- Prerecorded Video
