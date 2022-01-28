@@ -1,4 +1,4 @@
-# Live Stream Requirements
+# Live Video Requirements
 
 ## Basic Transcript
 
