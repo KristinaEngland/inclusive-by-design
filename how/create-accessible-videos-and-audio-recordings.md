@@ -14,6 +14,6 @@
 ## Accessible Multimedia Communications Decision Tree
 
 Select the type of media you will be creating for media-specific requirements:
-- Audio Recording
-- Livestream
-- Prerecorded Video
+- [Audio Recording](https://kristinaengland.github.io/inclusive-by-design/how/create-accessible-videos-and-audio-recordings/audio-recording-requirements)
+- [Live Video](https://kristinaengland.github.io/inclusive-by-design/how/create-accessible-videos-and-audio-recordings/live-video-requirements)
+- [Prerecorded Video](https://kristinaengland.github.io/inclusive-by-design/how/create-accessible-videos-and-audio-recordings/pre-recorded-video-requirements)
