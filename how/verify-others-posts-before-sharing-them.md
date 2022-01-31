@@ -4,7 +4,7 @@ Consider all of the [social media best practices](https://kristinaengland.github
 
 When it comes to alt text, which you can't check visually, you can enable either NVDA on your Windows computer or VoiceOver on your Mac to confirm there is alt text. You can also check alt text on mobile with VoiceOver or TalkBack. 
 
-Never assume based on the poster that the content is accessible. Unfortunately, there are several disability not-for-profits and disability advocates that don't make their content accessible to all disability communities as they may only be thinking of their specific community when creating posts. The same goes for advocates - just because an advocate is promoting the cause, it doesn't mean they truly know what disability inclusion is yet. 
+Never assume based on the poster that the content is accessible. Unfortunately, there are several disability not-for-profits and disability advocates that don't make their content accessible to all disability communities as they may only be thinking of their specific community when creating posts. 
 
 ## How do I handle inaccessible posts by others?
 
