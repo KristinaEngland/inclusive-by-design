@@ -1,6 +1,6 @@
 # Ensure use of emojis does not impact readability
 
-## Ensure you do not rely on an emoji to substitute a word. 
+## Do not rely on an emoji to substitute a word. 
 
 Emojis aren't always conveyed to assistive technology and sometimes their descriptive labels do not match what you think the emoji means. Use the emoji at the end of a sentence instead such as saying "I love football!" followed by a football emoji.
 
