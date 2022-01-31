@@ -1,6 +1,6 @@
 # Verify Others' Posts Before Sharing Them
 
-Consider all of the social media best practices before sharing a post by someone else.
+Consider all of the [social media best practices](https://kristinaengland.github.io/inclusive-by-design/how/inclusive-social-media-content) before sharing a post by someone else.
 
 When it comes to alt text, which you can't check visually, you can enable either NVDA on your Windows computer or VoiceOver on your Mac to confirm there is alt text. You can also check alt text on mobile with VoiceOver or TalkBack. 
 
