@@ -1,14 +1,14 @@
 # Use Text or Another Medium Instead of Images of Text
 
-When designing content for the web, use actual text in your design, whether creating an email, a table of contents, a call out box, or other type of marketing content. A hero image is fine for an email, but having the whole email as a poster creates significant access issues. 
+When designing content for the web, use actual text in your design, whether creating an email, a table of contents, a call out box, or other type of marketing content. 
 
 ## What barriers does an image of text create?
 
-An image of text can often not be resized with zoom/magnification tools. 
-An image of text for can be hard to convey through alt text, especially a table screenshot, which can be impossible to describe through alt text.
-The text in the image becomes unsearchable and cannot be translated into other languages.
-If someone has images disabled due to low bandwidth or sensory issues, they lose the visual means in which the content was conveyed. 
-Prevents any user from copy pasting that content for personal notes or other purposes.
+- An image of text can often not be resized with zoom/magnification tools. 
+- An image of text for can be hard to convey through alt text, especially a table screenshot, which can be impossible to describe through alt text.
+- The text in the image becomes unsearchable and cannot be translated into other languages.
+- If someone has images disabled due to low bandwidth or sensory issues, they lose the visual means in which the content was conveyed. 
+- Prevents any user from copy pasting that content for personal notes or other purposes.
 
 ## Options for Inclusive Official Statements on Social Media
 
