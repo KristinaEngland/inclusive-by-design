@@ -1,7 +1,8 @@
 # Use Inclusive Content, Language, and Imagery
 
 ## Content
-When writing content about disability inclusion, ensure you are encorporating disabled voices into your content. Lived experience is crucial for understanding what's impacting the disability community and the community's current views on key disability inclusion topics. 
+- When writing content about disability inclusion, ensure you are encorporating disabled voices into your content. Lived experience is crucial for understanding what's impacting the disability community and the community's current views on key disability inclusion topics. 
+- Verify your sources for any disability inclusion content with the community as part of the article development process. Some communities are already quite vocal about sources they don't approve of being referenced and if you are following community members on Twitter, you will get a sense of what sources to avoid. For example, the autistic community is very clear about their wishes not to have Autism Speaks referenced in any inclusion articles related to the autistic community. 
 
 ## Language
 - Avoid [ableist language and euphemisms](https://en.wikipedia.org/wiki/List_of_disability-related_terms_with_negative_connotations) when writing posts as both carry negative connotations, whether a disability is used as a metaphor for a negative behavior or whether you use euphemisms such as differently-abled instead of the word disability ([#SayTheWord](https://twitter.com/search?q=%23SayTheWord&src=typed_query)). And, if you accidentally use ableist language and are called out on it, the best thing to do is apologize and issue that apology as a separate post. It's also recommended that you take down the original post if it could continue to perpetuate ableist language. 
