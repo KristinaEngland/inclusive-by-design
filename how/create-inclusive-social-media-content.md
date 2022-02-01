@@ -10,7 +10,7 @@ The following best practices are intended for anyone managing a social media acc
 - [Design accessible marketing graphics](https://kristinaengland.github.io/inclusive-by-design/how/design-accessible-marketing-graphics)
 - [Ensure Gifs have alt text and do not trigger health conditions](https://kristinaengland.github.io/inclusive-by-design/how/ensure-gifs-have-alt-text-and-do-not-trigger-health-conditions)
 - [Create Accessible Videos and Audio Recordings](https://kristinaengland.github.io/inclusive-by-design/how/create-accessible-videos-and-audio-recordings)
-- Use CamelCase Hashtags
+- [Use Camel Case Hashtags](https://kristinaengland.github.io/inclusive-by-design/how/use-camel-case-hashtags)
 - Ensure use of emojis doesn't impact content readability
 - Use the built-in font styling, not unicode
 - Post long statements as a video or link to a webpage
