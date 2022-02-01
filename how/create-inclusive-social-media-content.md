@@ -12,7 +12,7 @@ The following best practices are intended for anyone managing a social media acc
 - [Create Accessible Videos and Audio Recordings](https://kristinaengland.github.io/inclusive-by-design/how/create-accessible-videos-and-audio-recordings)
 - [Use Camel Case Hashtags](https://kristinaengland.github.io/inclusive-by-design/how/use-camel-case-hashtags)
 - [Ensure use of emojis doesn't impact content readability](https://kristinaengland.github.io/inclusive-by-design/how/ensure-use-of-emojis-does-not-impact-readability)
-- Use the built-in font styling, not unicode
+- [Use the built-in font styling, not unicode](https://kristinaengland.github.io/inclusive-by-design/how/use-built-in-font-styling-not-unicode)
 - Post long statements as a video or link to a webpage
 - Use inclusive language and imagery
 - Verify others' posts before sharing them
