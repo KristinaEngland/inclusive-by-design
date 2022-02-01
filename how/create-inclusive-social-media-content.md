@@ -8,7 +8,7 @@ The following best practices are intended for anyone managing a social media acc
 
 - [Add alt text to images](https://kristinaengland.github.io/inclusive-by-design/how/provide-alt-text-for-images)
 - [Design accessible marketing graphics](https://kristinaengland.github.io/inclusive-by-design/how/design-accessible-marketing-graphics)
-- Ensure Gifs have alt text and do not trigger health conditions
+- [Ensure Gifs have alt text and do not trigger health conditions](https://kristinaengland.github.io/inclusive-by-design/how/ensure-gifs-have-alt-text-and-do-not-trigger-health-conditions)
 - Ensure videos have captions and a transcript
 - Use CamelCase Hashtags
 - Ensure use of emojis doesn't impact content readability
