@@ -1,4 +1,4 @@
-# Be Bold When Emphasizing Content
+# Use Bold When Emphasizing Content
 
 - Use bold to emphasize content. You can also use a color to emphasize the content but should always use bold at the same time as not everyone perceives colors in the same or can perceive colors at all.
 - Avoid the use of italics as it's harder for people with dyslexia to read as well as harder for everyone in general to read.
