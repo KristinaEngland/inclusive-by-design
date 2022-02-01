@@ -13,6 +13,6 @@ The following best practices are intended for anyone managing a social media acc
 - [Use Camel Case Hashtags](https://kristinaengland.github.io/inclusive-by-design/how/use-camel-case-hashtags)
 - [Ensure use of emojis doesn't impact content readability](https://kristinaengland.github.io/inclusive-by-design/how/ensure-use-of-emojis-does-not-impact-readability)
 - [Use the built-in font styling, not unicode](https://kristinaengland.github.io/inclusive-by-design/how/use-built-in-font-styling-not-unicode)
-- Post long statements as a video or link to a webpage
+- [Create Inclusive Official Statements for Social Media](https://kristinaengland.github.io/inclusive-by-design/how/create-inclusive-official-statements-to-social-media)
 - Use inclusive language and imagery
 - Verify others' posts before sharing them
