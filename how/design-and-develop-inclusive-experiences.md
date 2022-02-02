@@ -36,10 +36,10 @@ The best way to understand how disabled people interact with the digital world i
 ## Professional Development
 
 ### Conferences
-- Deque axe-con Digital Accessibility Conference
-- ICT Accessibility Testing Symposium
-- Inclusive Design 24 (#id24)
-- John Slatin Virtual AccessU
+- [Deque axe-con Digital Accessibility Conference](https://www.deque.com/axe-con/)
+- [ICT Accessibility Testing Symposium](https://www.ictaccessibilitytesting.org/)
+- [Inclusive Design 24 (#id24)](https://inclusivedesign24.org/)
+- [John Slatin Virtual AccessU](https://knowbility.org/programs)
 
 ### Webinars
 - Deque Accessibility Webinars
