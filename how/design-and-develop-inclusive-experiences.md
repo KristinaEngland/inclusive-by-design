@@ -8,17 +8,19 @@ Note: In this video, Juan describes his experience as a blind person using assis
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MCgKqwNVxN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[Interactive transcript available on YouTube](https://youtu.be/MCgKqwNVxN0)
+
 ## Guidelines and Principles
 
 Designers and developers should become familiar with the following guidelines and principles when building or customizing digital experiences:
 
-- Web Content Accessibility Guidelines (WCAG)
-- Accessible Rich Internet Applications (ARIA)
-- Inclusive Design Principles
+- [Web Content Accessibility Guidelines (WCAG)](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/wcag)
+- [Accessible Rich Internet Applications (ARIA)](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/aria)
+- [Inclusive Design Principles](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/inclusive-design-principles)
 
 ## Automated Testing Tools
 
-Designers and developers should review the available list of Automated Testing Tools and determine which ones they will use during design and development. These tools will only catch up to 30% of accessibility issues, but catching those 30% initially can be instrumental in paving the way for manual testing.
+Designers and developers should review the available list of [Automated Testing Tools](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/automated-testing-tools) and determine which ones they will use during design and development. These tools will only catch up to 30% of accessibility issues, but catching those 30% initially can be instrumental in paving the way for manual testing.
 
 ## Manual Testing Processes
 
