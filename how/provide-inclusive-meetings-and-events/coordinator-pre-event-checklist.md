@@ -18,20 +18,20 @@ When selecting where to hold an in-person event, ensure the location meets physi
 - Ensure there is a microphone system. The use of microphones help anyone who is hard of hearing to hear what's happening. Check to see if there is a hearing loop system as well and, if there is, include that information in your pre-event communications. 
 - Follow up with your ADA Coordinator for more information and for accessible location recommendations. 
 
-## Ensure Online Events are Accessible and Inclusive
+## 2. Ensure Online Events are Accessible and Inclusive
 
 - Ensure the online platform you are using for the event complies with the Web Content Accessibility Guidelines (WCAG). Check with your IT office on pre-approved accessible meeting platforms. 
 - Ensure you can spotlight a sign language interpreter for the event if a sign language interpreter has been requested for an accommodation.  
 - Ensure there are multiple ways for attendees to communicate rather than relying on one communication method alone. Not everyone can speak their questions so providing both the ability to speak and type questions is best. 
 - Turn video off by default and let attendees determine if they want to enable video. Video is optional and can be beneficial to some, such as attendees that rely on lip reading, but not beneficial to others (for example, anyone with sensory and vestibular triggers may choose to have the view of other attendees' videos off and the video view hidden). 
 
-## Select Diverse Speakers
+## 3. Select Diverse Speakers
 
 - Ensure you have a diverse and inclusive speaker lineup (gender, ethnicity, disability, etc.). There are plenty of diverse speakers that can speak on any topic, especially when we tap into our campus faculty and researchers.
 - If specifically seeking out presenters on DEI topics, ensure the people you are contacting to present on that topic have experience presenting on the topic and you are not just reaching out to them based on their perceived identities. 
 - Request biographies from the speakers. Do not pull biographies from their past events on the web. The biography may be out of date and the person may not feel it represents who they are now. 
 
-## Ensure All Event Communications are Accessible and Inclusive
+## 4. Ensure All Event Communications are Accessible and Inclusive
 - Ensure the registration process for a meeting or event is accessible, including the general event registration form, accommodation form, sponsorship and exhibitor sign up forms, etc.
 - Ensure all social media posts marketing an event are accessible.
 - If you are using an email marketing platform, ensure the platform delivers accessible emails. Provide an option for viewing the web version of the email.
@@ -39,11 +39,11 @@ When selecting where to hold an in-person event, ensure the location meets physi
 - Provide attendees with a way to identify their pronouns.
 - Include diverse representation in your imagery (e.g., age, disability, ethnicity, etc.).
 
-## Manage Accommodation Requests
+## 5. Manage Accommodation Requests
 - Provide a way for attendees to request accommodations in your communications, such as accessible seating, human-transcribed live captions and transcript, alternative materials, dietary restrictions, or an in-person guide.
 - Ensure accommodation requests are documented, completed, and that you confirm with the attendee that their accommodation has been processed. 
 
-## Establish a Captioning Plan
+## 6. Establish a Captioning Plan
 
 Your plan for captioning and transcripts will vary depending on whether you have an accommodation request for human-transcribed captions. 
 
