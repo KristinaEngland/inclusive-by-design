@@ -26,12 +26,12 @@ Designers and developers should review the available list of [Automated Testing 
 
 The best way to understand how disabled people interact with the digital world is by learning those interactions. It's recommended that developers learn the following types of manual testing so that they can validate code as they are developing it:
 
-- Manual Visual Reviews
-- Display Modes
-- Keyboard-Only Navigation
-- Screen Readers
-- Speech Recognition
-- Zoom and Resizing Text
+- [Manual Visual Reviews](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/manual-visual-reviews)
+- [Display Modes](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/display-mode-testing)
+- [Keyboard-Only Navigation](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/keyboard-only-testing)
+- [Screen Readers](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/screen-reader-testing)
+- [Speech Recognition](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/speech-recognition)
+- [Zoom and Resizing Text](https://kristinaengland.github.io/inclusive-by-design/how/design-and-develop-inclusive-experiences/zoom-and-resizing)
 
 ## Professional Development
 
