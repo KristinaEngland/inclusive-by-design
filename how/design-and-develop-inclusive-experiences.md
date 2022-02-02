@@ -42,17 +42,17 @@ The best way to understand how disabled people interact with the digital world i
 - [John Slatin Virtual AccessU](https://knowbility.org/programs)
 
 ### Webinars
-- Deque Accessibility Webinars
-- Tenio.io Ask Me Anything (AMA) Webinars
+- [Deque Accessibility Webinars](https://www.deque.com/resources/type/webinars/)
+- [Tenio.io Ask Me Anything (AMA) Webinars](https://resources.tenon.io/a11yama)
 
 ### Hackathons
-- Accessibility Internet Rally (AIR)
-= Deque axe-hackathon
+- [Accessibility Internet Rally (AIR)](https://knowbility.org/programs/air)
+- [Deque axe-hackathon](https://www.deque.com/axe-con/axe-hackathon/)
 
 ## Additional Industry Resources
 
 Developers and designers are encouraged to leverage the following accessibility industry resources:
 
-- A11y Project
-- International Association of Accessibility Professionals
+- [A11y Project](https://www.a11yproject.com/)
+- [International Association of Accessibility Professionals](https://www.accessibilityassociation.org/)
 - Web A11y Slack Community (please log an issue to request access)
