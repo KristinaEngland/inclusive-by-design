@@ -50,3 +50,18 @@ Your plan for captioning and transcripts will vary depending on whether you have
 - Provide human-transcribed captions for an accommodation request. When looking for someone to transcribe captions for an event, you will want to book a professional Communication Real-Time translation (CART) provider. You should work with the ADA Coordinator to obtain a list of approved CART providers to ensure quality captions are provided. When using a CART provider, ensure that the provider can offer both captions and an interactive transcript. Note that you can use human-transcribed captions for an event even if you do not have an accommodation request come in. Auto-captions might misrepresent the spoken content due to mispronunciations, accents, dialects, or background noise, and editing low quality auto-captions can be time-consuming after the fact if you need to communicate recordings.
 - Establish a backup plan if human-transcribed captions stop working via an event platform. Captions can occasionally stop working when fed into event platforms, such as Zoom. In that case, a CART provider will have a backup link to their hosted transcript. You should ask for that link prior to the event should you need to communicate it if captioning issues arise. In the case of captions failing completely, you can either try enabling auto-captions or you may need to use chat and have someone on staff that can provide backup captions through chat. Either way, it's best to be ready for a workaround should an issue arise. 
 - Use auto-captions when no accommodation request is received. Auto-captions can be beneficial to the neurodiverse community, hard of hearing community, people with audio issues, people in a noisy setting, and anyone where English is their secondary language.  Auto-captions along with an interactive transcript should be available in most meeting platforms (e.g., Microsoft Teams, Zoom, etc.). They should be tested with presenters prior to the event or meeting to ensure that the quality of the auto-captions will be sufficient. A speaker's accent or dialect can have an impact on the quality of the auto-captions due to auto-captions not being trained yet in all accents and dialects. The auto-captions delivered in that case can be inaccurate and, at times, even embarrassing. The last thing you want to do is offend either the speaker or attendees participating in the event. 
+
+## 7. Confirm AV Support Requirements
+
+- Ensure you do a dry-run with AV support if you have any presenters using assistive technology. AV teams do not always have prior training on how best to configure the sound system to work, whether to deliver the sound of assistive technology through the sound system or to cancel out the assistive technology sound. 
+
+## 8. Communicate Dietary, Sensory, and Allergy Information for In-Person Events
+
+- Communicate where dietary and allergy food will be located during the event. 
+- Communicate a fragrance-free policy for both sensory and allergy purposes.
+- Designate a quiet space for anyone with sensory issues and communicate that space will be available for use throughout the event. 
+
+## 9. Communicate All Materials Ahead of Time
+
+- Ensure that all presenters create accessible materials ahead of the event that can be shared prior to the event.
+- Share documents with attendees prior to the meeting or event for anyone that needs to follow along.
