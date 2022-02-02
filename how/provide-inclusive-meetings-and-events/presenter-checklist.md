@@ -17,4 +17,4 @@
 - Provide participants with a microphone during any question or answer sessions and reiterate the need to speak through the microphone when asking a question. If you are unable to get the microphone to the person, repeat the question for everyone in the room.
 
 ## 4. Use a Headset During a Virtual Presentation
-- Background noises can be distracting to the neurodiverse community. Use a headset to provide a distraction free presetnation. 
+- Background noises can be distracting to a neurodivergent participant and the hard of hearing community. Use a headset to provide a distraction free presetnation. 
