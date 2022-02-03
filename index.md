@@ -10,7 +10,7 @@ Before we talk about the various aspects of accessibility, it's important to und
 
 Digital and physical inclusion is essential to recruiting and retaining disabled employees and students. We must think about inclusion throughout the life cycle of a program, product, or service so that we can ensure that our colleagues and students can access the world in an equally effective and independent way.
 
-## Disability Inclusion is Everyone's Responsibility 
+## [Disability Inclusion is Everyone's Responsibility](https://kristinaengland.github.io/inclusive-by-design/our-responsibility)
 
 Disability inclusion requires us to look at both systemic and personal biases. We must change organizational processes in order to ensure inclusion. We must also change our own personal habits, both inside and outside the workplace to make inclusion a reality.
 
