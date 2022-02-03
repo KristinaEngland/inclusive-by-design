@@ -2,10 +2,10 @@
 
 Disability inclusion requires us to look at both systemic and personal biases. We must change organizational processes in order to ensure inclusion. We must also change our own personal habits, both inside and outside the workplace to make inclusion a reality. 
 
-- Shifting Left: An Organizational Commitment
-- Recognizing Personal Bias
-- Disability Etiquette
-- Making Digital Inclusion a Standard Part of Your Life
+- [Shifting Left: An Organizational Commitment](https://kristinaengland.github.io/inclusive-by-design/our-responsibility/shifting-left)
+- [Recognizing Personal Bias](https://kristinaengland.github.io/inclusive-by-design/our-responsibility/recognizing-personal-bias-and-ableism)
+- [Disability Etiquette](https://kristinaengland.github.io/inclusive-by-design/our-responsibility/disability-etiquette)
+- [Making Digital Inclusion a Standard Part of Your Life](https://kristinaengland.github.io/inclusive-by-design/our-responsibility/making-digital-inclusion-standard)
 
 ## Book Spotlight: "Academic Ableism: Disability and Higher Education"
 
