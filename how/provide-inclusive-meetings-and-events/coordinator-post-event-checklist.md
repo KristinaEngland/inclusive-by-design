@@ -7,7 +7,7 @@ If you are sending out a survey after an event:
 - Ensure the survey tool and survey question types you use are accessible.
 - Provide a section for attendees to submit any feedback on the accessibility of the event.
 
-# 2 Ensure Any Recordings are Accessible Before Posting
+# 2. Ensure Any Recordings are Accessible Before Posting
 
 If posting event recordings:
 
