@@ -1,4 +1,6 @@
-Using color as the only way to convey meaning can create issues for people who are color blind and people who are blind, deaf-blind, or have low vision. ​In the case of someone who is color blind, they may not be able to distinguish between certain colors such as red and green, or they may actually not see colors at all (known as monochromatic vision).
+# Do Not Use as the Only Way to Convey Meaning
+
+Using color as the only way to convey meaning can create issues for people who are color blind and people who are blind, deaf-blind, or have low vision. In the case of someone who is color blind, they may not be able to distinguish between certain colors such as red and green, or they may actually not see colors at all (known as monochromatic vision).
 
 The example below is a bracelet concept someone came up with once vaccines were available as a way for people to communicate whether they were fine with hugs, okay with talking, or wanted others to keep their distance at events. These bracelets came with a sign that indicated which color represented which preference. However, there were two issues with this solution. The first was that it failed to keep in mind that not everyone sees colors the same way. A filter has been added to the image to simulate deuteranopia, which is a type of red-green color blindness characterized by the inability to distinguish red and green pigments. Can you tell the difference between the red and the green?
 
