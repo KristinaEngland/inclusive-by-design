@@ -12,5 +12,5 @@ These best practices can be leveraged across various mediums - emails, documents
 - [Do Not Use as the Only Way to Convey Meaning](https://kristinaengland.github.io/inclusive-by-design/how/use-built-in-font-styling-not-unicode)
 - [Use Tables Correctly](https://kristinaengland.github.io/inclusive-by-design/how/use-tables-correctly)
 - [Create Accessible Videos and Audio Recordings](https://kristinaengland.github.io/inclusive-by-design/how/create-accessible-videos-and-audio-recordings)
-- Ensure Any Documents Shared are Accessible
+- [Ensure Any Documents Shared are Accessible](https://kristinaengland.github.io/inclusive-by-design/how/ensure-any-documents-shared-are-accessible)
 - [Use Inclusive Content, Language, and Imagery](https://kristinaengland.github.io/inclusive-by-design/how/use-inclusive-content-language-imagery)
