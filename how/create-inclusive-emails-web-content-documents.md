@@ -13,3 +13,4 @@ These best practices can be leveraged across various mediums - emails, documents
 - [Use Tables Correctly](https://kristinaengland.github.io/inclusive-by-design/how/use-tables-correctly)
 - [Create Accessible Videos and Audio Recordings](https://kristinaengland.github.io/inclusive-by-design/how/create-accessible-videos-and-audio-recordings)
 - Ensure any documents shared are accessible
+- [Use Inclusive Content, Language, and Imagery](https://kristinaengland.github.io/inclusive-by-design/how/use-inclusive-content-language-imagery)
